@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+pillow
+scikit-learn
+tqdm
+matplotlib
+pandas
+requests
+lxml
+beautifulsoup4
